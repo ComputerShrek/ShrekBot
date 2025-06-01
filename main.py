@@ -2,7 +2,6 @@ import random
 import pyautogui
 import string
 import time
-import os
 import sys
 import types
 sys.modules['mouseinfo'] = types.ModuleType('mouseinfo')
